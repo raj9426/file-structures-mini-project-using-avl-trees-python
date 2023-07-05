@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your GitHub repository:
-
 # AVL Tree Phonebook Management System
 
 This repository contains the AVL Tree Phonebook Management System, a software application implemented in Python that allows users to manage a phonebook of contacts using the AVL tree data structure.
@@ -17,13 +15,13 @@ This repository contains the AVL Tree Phonebook Management System, a software ap
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/avl-tree-phonebook.git
+git clone https://github.com/your-username/file-structures-mini-project-using-avl-trees-python.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd avl-tree-phonebook
+cd file-structures-mini-project-using-avl-trees-python
 ```
 
 3. Compile the source code.
@@ -61,7 +59,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [shakthiraj9426@gmail.com](mailto:shakthiraj9426@gmail.com).
 
 ---
 
